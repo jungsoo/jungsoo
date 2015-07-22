@@ -1,0 +1,13 @@
+body {
+    font-family:    monospace;
+    max-width:      80ch;
+}
+
+ul {
+    list-style:     none;
+    padding:        1em 0;
+}
+
+li {
+    white-space:    pre;
+}
