@@ -1,13 +1,12 @@
 body {
-    font-family:    monospace;
-    max-width:      80ch;
+    max-width: 80ch;
+    padding: 0 1em;
+    color: #444444;
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.25em;
 }
 
-ul {
-    list-style:     none;
-    padding:        1em 0;
-}
-
-li {
-    white-space:    pre;
+a {
+    color: #9C1C1C;
+    text-decoration: none;
 }
