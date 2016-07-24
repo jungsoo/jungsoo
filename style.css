@@ -1,6 +1,4 @@
 body {
-    max-width: 80ch;
-    padding: 0 1em;
     color: #444444;
     font-family: 'Inconsolata', monospace;
     font-size: 1.25em;
@@ -9,4 +7,15 @@ body {
 a {
     color: #9C1C1C;
     text-decoration: none;
+}
+
+#main {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    max-width: 80ch;
+    margin-right: -50%;
+    padding: 2.5em;
+    text-align: center;
+    transform: translate(-50%, -50%);
 }
