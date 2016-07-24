@@ -1,7 +1,6 @@
 body {
     color: #444444;
     font-family: 'Inconsolata', monospace;
-    font-size: 1.25em;
 }
 
 a {
@@ -18,4 +17,10 @@ a {
     padding: 2.5em;
     text-align: center;
     transform: translate(-50%, -50%);
+}
+
+@media (min-width:641px) {
+    body {
+        font-size: 1.25em;
+    }
 }
