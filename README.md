@@ -1,2 +1,2 @@
 # Jungsoo's Personal Website
-* http://jungsoo.org/
+* https://jungsoo.org/
