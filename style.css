@@ -1,6 +1,11 @@
 body {
-    color: #444444;
+    color: #444;
     font-family: 'Inconsolata', monospace;
+}
+
+h1,
+strong {
+    color: #333;
 }
 
 a {
@@ -8,11 +13,11 @@ a {
     text-decoration: none;
 }
 
-#main {
+main {
     position: absolute;
-    top: 45%;
+    top: 48%;
     left: 50%;
-    max-width: 80ch;
+    max-width: 40em;
     margin-right: -50%;
     padding: 2.5em;
     text-align: center;
